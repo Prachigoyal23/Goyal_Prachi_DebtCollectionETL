@@ -1,0 +1,99 @@
+Analysis Results Summary and Interpretation
+
+1. Average Loan Amount for Borrowers More Than 5 Days Past Due
+- Result:- 54,683.16
+- Interpretation:- This average indicates the typical loan amount for borrowers who have exceeded the due date by more than 5 days. 
+It suggests a higher risk segment within the borrower base, potentially requiring closer monitoring or intervention strategies.
+
+2. Top 10 Borrowers with the Highest Outstanding Balance
+- Result :- 
+Name            | Outstanding Balance
+-------------------------------------
+Miraya Baria    | 1,432,292.10
+Lagan Gokhale   | 1,426,567.35
+Vidur Wable     | 1,409,459.52
+Aarav Sami      | 1,401,456.70
+Jayant Balan    | 1,391,815.35
+Anaya Dutta     | 1,380,670.06
+Indranil Jaggi  | 1,379,695.10
+Yashvi Chokshi  | 1,372,126.50
+Krish Bhatia    | 1,332,488.85
+Abram Jaggi     | 1,294,453.55
+
+-  Interpretation: These individuals hold the highest outstanding balances, indicating significant financial exposure. 
+Understanding their repayment behavior and financial health is crucial for risk management and collection strategies
+
+3. List of Borrowers with Good Repayment History
+- Result :- 
+| Name             | Date of Birth | Gender | Marital Status | Phone Number   | Email Address           | Mailing Address                               | Language Preference | Geographical Location | Credit Score | Loan Term | Interest Rate | Loan Purpose        | EMI      | IP Address       | Geolocation               | Repayment History | Days Left to Pay | Current EMI | Delayed Payment | Outstanding Balance |
+|------------------|---------------|--------|----------------|----------------|-------------------------|-----------------------------------------------|---------------------|-----------------------|--------------|-----------|---------------|---------------------|----------|------------------|---------------------------|-------------------|------------------|-------------|-----------------|---------------------|
+| Khushi Balan     | 19-02-1986    | Male   | Single         | 2169182416     | xbhakta@example.com     | 29/74, Mander, Kulti 156906                   | Marathi             | Danapur               | 491          | 15        | 0.16          | Medical Emergency   | 2545.36  | 10.65.217.95     | -49.3275015, 58.067192    | {...}             | 2                |             | No              | 5090.72             |
+| Adira Dara       | 05-08-1995    | Female | Widowed        | 4615155004     | loyalvihaan@example.net | H.No. 468\nRaval Zila\nNanded 490253          | Malayalam           | Bijapur               | 624          | 10        | 0.16          | Home Renovation     | 9812.94  | 10.166.34.134    | 64.013123, 175.275587     | {...}             | 7                |             | No              | 68690.58            |
+| Kartik Kade      | 09-07-1979    | Male   | Widowed        | 910186397558   | sanakaur@example.net    | 55/13, Srivastava Path\nRaipur-801775         | Malayalam           | Jorhat                | 321          | 1         | 0.29          | Wedding Expenses    | 92126.86 | 192.168.255.28   | -71.7186905, 49.352990    | {}                | 11               |             | No              | 1013395.46          |
+| Rohan Sekhon     | 31-07-1980    | Male   | Widowed        | 5864147671     | orama@example.org       | 53/19, Lal Street\nPondicherry-688297         | Hindi               | Davanagere            | 760          | 2         | 0.29          | Home Renovation     | 7330.93  | 10.56.169.62     | 46.0948625, 4.226201      | {...}             | 9                |             | No              | 65978.37            |
+| Rati Swaminathan | 01-01-1992    | Female | Widowed        | 7508064439     | ivansoman@example.net   | 63/29\nSrivastava Zila, Bidhannagar-812274    | English             | Amritsar              | 502          | 10        | 0.26          | Wedding Expenses    | 4468.29  | 192.168.244.120  | -35.8522285, -162.788675  | {...}             | 1                |             | No              | 4468.29             |
+| ...              | ...           | ...    | ...            | ...            | ...                     | ...                                           | ...                 | ...                   | ...          | ...       | ...           | ...                 | ...      | ...              | ...                       | {...}             | ...              | ...         | ...             | ...                 |
+| Nirvi Soni       | 29-06-1988    | Female | Single         | 385743360      | jsama@example.org       | 846\nSidhu Marg, Kottayam 847757              | English             | Ujjain                | 556          | 10        | 0.30          | Debt Consolidation  | 4123.71  | 172.31.217.59    | -58.0947705, 134.012576   | {...}             | 15               |             | No              | 61855.65            |
+| Jivin Kala       | 12-04-1987    | Female | Married        | 910995328895   | reyanshsingh@example.net| 63\nBuch\nShimoga-305427                      | Malayalam           | Moradabad             | 324          | 3         | 0.28          | Home Renovation     | 24858.48 | 192.168.111.245  | 74.240318, -59.899269     | {...}             | 4                |             | No              | 99433.92            |
+| Tarini Brar      | 05-08-2003    | Male   | Divorced       | 912776422307   | sanghvidiya@example.org | 894\nLalla Street\nMuzaffarnagar 792677       | Telugu              | Durgapur              | 651          | 3         | 0.16          | Medical Emergency   | 8909.41  | 10.249.69.90     | -37.5265695, 19.172181    | {...}             | 5                |             | No              | 44547.05            |
+| Shamik Mahajan   | 13-06-1977    | Female | Married        | 915634902477   | xchoudhary@example.net  | 78/75\nSarin Street, Medininagar 780980       | English             | Arrah                 | 349          | 1         | 0.23          | Education Fees      | 65415.21 | 172.20.199.148   | -67.424898, -30.896858    | {...}             | 11               |             | No              | 719567.31           |
+| Krish Brar       | 18-10-1958    | Female | Divorced       | 4222469533     | jaggiishita@example.com | 10, Deol Ganj, Surendranagar Dudhrej 811454   | Kannada             | Ambattur              | 334          | 1         | 0.12          | Education Fees      | 58442.64 | 192.168.88.105   | 54.933584, 2.857838       | {...}             | 15               |             | No              | 876639.60           |
+
+- Interpretation: This list provides borrowers who have consistently met payment obligations, reflecting creditworthiness and reliability in repayment. 
+It identifies low-risk customers and informs future lending decisions.
+
+4. Loan Type Analysis
+(a) Count of Loans by Loan Type
+Result :- Count of Loans by Loan Type:
+Personal Loan    1680
+Auto Loan        1660
+Home Loan        1660
+Name: Loan Type, dtype: int64
+
+(b) Total Loan Amount by Loan Type
+Result :- Total Loan Amount by Loan Type:
+Loan Type
+Auto Loan        91795897
+Home Loan        92317769
+Personal Loan    92352752
+Name: Loan Amount, dtype: int64
+
+(c) Average Loan Amount by Loan Type
+Result :- Average Loan Amount by Loan Type:
+Loan Type
+Auto Loan        55298.733133
+Home Loan        55613.113855
+Personal Loan    54971.876190
+Name: Loan Amount
+
+
+(d) Maximum Loan Amount by Loan Type
+Result :- Maximum Loan Amount by Loan Type:
+Loan Type
+Auto Loan        99931
+Home Loan        99999
+Personal Loan    99875
+Name: Loan Amount
+
+(e) Minimum Loan Amount by Loan Type
+Result :- Minimum Loan Amount by Loan Type:
+Loan Type
+Auto Loan        10057
+Home Loan        10433
+Personal Loan    10105
+Name: Loan Amount
+
+(f) Loan Type Analysis with Multiple Metrics
+Result :- Loan Type Analysis with Multiple Metrics:
+              Loan Amount                                      
+                    count       sum          mean    min    max
+Loan Type                                                      
+Auto Loan            1660  91795897  55298.733133  10057  99931
+Home Loan            1660  92317769  55613.113855  10433  99999
+Personal Loan        1680  92352752  54971.876190  10105  99875
+
+Interpretation:
+
+    The analysis breaks down loan distribution and financial exposure across different loan types.
+    It highlights trends in loan preferences and the financial impact of various loan categories.
+    Insights gained can guide product development and marketing strategies based on customer demand and financial performance.
